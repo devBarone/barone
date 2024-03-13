@@ -1,0 +1,51 @@
+body{
+
+background-color: rgb(39, 34, 34);
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+
+    text-align: center;
+    color: yellow;
+    font-style: italic;
+    font-size: 4em;
+    text-shadow: 2px 2px 2px rgb(185, 53, 20);
+    
+
+}
+
+#intro{
+
+    text-align: center;
+}
+
+p{
+    
+    
+    font-size: 2.5em;
+    color: red;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px rgb(182, 163, 59);
+
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+#id1{
+    background-color: white w;
+   
+    text-align: left;
+}
+
+#id2{
+    text-align: center;
+
+}
+
+#id3{
+
+    text-align: right;
+}
+
